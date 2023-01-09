@@ -27,7 +27,7 @@ it tells you how many numbers, letter and symbols you would like to ave and it w
 
 #### Preview:
 
-![rock and scissors](./rock.png)
+![rock and scissors](./password.png)
 
 ## How to run this on your device
 
